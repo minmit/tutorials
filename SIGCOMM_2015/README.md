@@ -29,7 +29,7 @@ The original webpage for the tutorial can be found
 This repository include 2 exercises we presented at SIGCOMM: *Source Routing*
 and *Flowlet Switching*. Both exercises assume that you possess basic networking
 knowledge and some familiarity with the P4 language. Please take a look at the
-[P4 language spec](http://p4.org/spec/) and at the example `simple_router`
+[P4 language spec](http://p4.org/specs/) and at the example `simple_router`
 target [on
 p4lang](https://github.com/p4lang/p4factory/tree/master/targets/simple_router/p4src).
 *Source Routing* asks you to write a P4 program from scratch to implement a
@@ -43,7 +43,7 @@ files.
 ## Obtaining required software
 
 To complete the exercises, you will need to clone 2 p4lang Github repositories
-and install their dependencies. To clonde the repositories:
+and install their dependencies. To clone the repositories:
 
 - `git clone https://github.com/p4lang/behavioral-model.git bmv2`
 - `git clone https://github.com/p4lang/p4c-bm.git p4c-bmv2`
